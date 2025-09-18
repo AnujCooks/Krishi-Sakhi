@@ -31,6 +31,13 @@ export default function RootLayout({
             `
           }}
         />
+
+        <iframe
+    src="https://www.chatbase.co/chatbot-iframe/PBkVlvzRJfeMLMMk1TK3R"
+    width="100%"
+    style="height: 100%; min-height: 700px"
+    frameborder="0"
+></iframe>
       </body>
     </html>
   )
